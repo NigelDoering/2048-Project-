@@ -1,3 +1,0 @@
-This is a test of test of the file
-parsing system.  What is the best way to test
-the file? system system
